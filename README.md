@@ -49,8 +49,8 @@ buildscript {
 }
 
 dependencies {
-    annotationProcessor 'com.bluelinelabs:logansquare-compiler:1.3.4'
-    annotationProcessor 'com.bluelinelabs:logansquare:1.3.4'
+    compile 'com.bluelinelabs:logansquare-compiler:1.3.7'
+    annotationProcessor 'com.bluelinelabs:logansquare-compiler:1.3.7'
 }
 ```
 
